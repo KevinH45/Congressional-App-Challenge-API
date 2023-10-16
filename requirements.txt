@@ -1,0 +1,7 @@
+tensorflow-text
+tensorflow
+sentencepiece
+tf-sentencepiece
+nltk
+flask
+numpy
